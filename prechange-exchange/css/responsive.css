@@ -1,0 +1,62 @@
+@media (max-width:767px) {
+
+    .navbar-brand img{
+        width:150px;
+    }
+    .logo_site {
+         margin-right: 10px;
+    }
+    .coin_balance ul {
+        white-space: nowrap;
+        overflow: scroll;
+    }
+    header .navbar {
+        padding: 1.3rem 1rem;
+    }
+    .banner_txt {
+        display: none;
+    }
+    .main_banner {
+        margin-top: 0;
+    }
+    .coin_img {
+        display: none;
+        height: auto;
+    }
+    .inner_content p {
+        width: 98%;
+        padding: 30px 15px 15px 30px;
+    }
+    .Accordion_item .title_tab .title {
+        padding-left: 0px;
+        padding-right: 20px;
+    }
+    .Accordion_item .title_tab .title:before {
+        display: none;
+    }
+    .con_frm textarea{
+        height:300 !important;
+    }
+    .con_frm {
+        padding: 30px 20px;
+    }
+  .mrw-1{margin-right: 0rem!important;}
+
+  .mlw-1{margin-left: 0rem!important;}
+ 
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+    
+}
+@media only screen and (min-width:480px) and (max-width:768px) {
+
+}
+
+@media only screen and (max-width:576px) {
+   
+}
+
+@media (max-width:1028px) {
+   
+}
